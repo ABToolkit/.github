@@ -41,16 +41,6 @@ technical work, including:
 - Desktop monitoring and configuration applications
 - Product manuals and technical support documentation
 
-## Featured Project
-
-### T210 Connect
-
-Official desktop monitoring and configuration application for supported
-ABToolkit T210 devices.
-
-T210 Connect provides USB serial communication, real-time monitoring,
-device configuration, and integration with supported ABToolkit hardware.
-
 ## Product Documentation
 
 Manuals, usage instructions, product support, and downloadable documentation
